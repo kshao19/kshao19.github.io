@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Kailai Shao's Website"
 author_profile: true
 redirect_from: 
   - /about/
