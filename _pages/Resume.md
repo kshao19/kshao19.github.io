@@ -4,7 +4,7 @@ title: "My Resume"
 permalink: /Resume/
 author_profile: true
 redirect_from:
-  - /Resume
+  - /resume
 ---
 
 {% include base_path %}
