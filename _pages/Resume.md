@@ -15,6 +15,8 @@ Education
   * Minor in International Politics
   * Honors: Omicron Delta Epsilon, Department Honors in Economics, & General Honors (Top 1%) 
 
+<br>
+
 Work experience
 ======
 ## Full Time
@@ -34,6 +36,8 @@ Work experience
 
 * Researcher, Retail Industry Point of Contact, Vassar Sustainable Investment Fund, Sep. 2021 – May 2022
 
+<br>
+
 ## Research and Teaching Experience
 * Macroeconomic Research Assistant for Professor Esteban Argudo, Vassar College, Sep. 2021 – May 2023
   * Modeling economic behaviors for natives and immigrants subject to credit access
@@ -47,11 +51,12 @@ Work experience
 
 * Research Assistant on Chinese Economics, Vassar College, Nov. 2019 – May 2020
 
+<br>
 
 Skills
 ======
-* <b>Research Skills:<b> Exploratory Data Analysis & Visualization, Regression Analysis, Machine Learning (KNN, Clustering), Macroeconomic Modeling (DSGE, Numerical Analysis, Markov Chain Simulation)
-* <b>Programming Tools:<b> Python (Pandas, NumPy, Scikit-learn, PyTorch, SciPy, QuantEcon), SQL, R, Stata, MATLAB
-* <b>Visualization Tools:<b> Python (Matplotlib, Seaborn), Tableau, Excel, R
-* <b>Multimedia Deliveries:<b> PowerPoint, Latex, ArcGIS
+* <b>Research Skills:</b> Exploratory Data Analysis & Visualization, Regression Analysis, Machine Learning (KNN, Clustering), Macroeconomic Modeling (DSGE, Numerical Analysis, Markov Chain Simulation)
+* <b>Programming Tools:</b> Python (Pandas, NumPy, Scikit-learn, PyTorch, SciPy, QuantEcon), SQL, R, Stata, MATLAB
+* <b>Visualization Tools:</b> Python (Matplotlib, Seaborn), Tableau, Excel, R
+* <b>Multimedia Deliveries:</b> PowerPoint, Latex, ArcGIS
 
