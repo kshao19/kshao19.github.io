@@ -1,13 +1,14 @@
 ---
 permalink: /
+title: "Welcome to my website :smiley: "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my website :smiley: 
 ======
+
 My name is Kailai. Here's a little bit about me:
 - Currently working as an antitrust data analyst for an economic consulting firm in New York City, US.
 - Born in Shanghai, China
