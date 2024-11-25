@@ -29,3 +29,6 @@ Topics that I looked into includes:
 I used Python and R to demonstrate:
   1. The preciseness of a Monte Carlo simulation in approximating an AR(1) Process
   2. The replication on the ARCH-M Model of the excess return to holding 6-month Treasury Bill
+
+See the repository for this analysis [here](https://github.com/kshao19/time_series_econometrics).
+
