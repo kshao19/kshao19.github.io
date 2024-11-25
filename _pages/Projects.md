@@ -22,6 +22,8 @@ Topics that I looked into includes:
   3. Inflation and Money Growth
   4. Examine Portfolio Choice Theory
 
+<br>
+
 # Topics on Time Series Econometrics
 
 ![image](https://github.com/user-attachments/assets/27e56523-37cc-408e-adea-94a942a6b346)
@@ -32,3 +34,4 @@ I used Python and R to demonstrate:
 
 See the repository for this analysis [here](https://github.com/kshao19/time_series_econometrics).
 
+<br>
