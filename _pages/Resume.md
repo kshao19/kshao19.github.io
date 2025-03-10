@@ -15,8 +15,6 @@ Education
   * Minor in International Politics
   * Honors: Omicron Delta Epsilon, Department Honors in Economics, & General Honors (Top 1%) 
 
-<br>
-
 Work experience
 ======
 ## Full Time
@@ -24,8 +22,6 @@ Work experience
   * Conduct regression analyses and hypothesis testings to predict antitrust impact on market price and supply for mergers and litigations across various industries (manufacturing, luxury, natural gas, etc.)
   * Design and implement Python programs to automate market concentration estimations, enhancing efficiency in merger effect analyses
   * Present expert opinions using pivot tables, charts, and maps; draft white papers for clients and regulatory authorities to support merger approvals
-
-<br>
 
 ## Internship
 * Blockchain Investment Intern, [Fenbushi Capital](https://fenbushi.vc/) (Shanghai, China), May 2021 – Aug. 2021
@@ -35,8 +31,6 @@ Work experience
   * Investigated the impact of carbon permit trading on pulp and paper futures using the Wind database, creating reports for spot market traders to understand market trends
 
 * Researcher, Retail Industry Point of Contact, Vassar Sustainable Investment Fund, Sep. 2021 – May 2022
-
-<br>
 
 ## Research and Teaching Experience
 * Macroeconomic Research Assistant for Professor Esteban Argudo, Vassar College, Sep. 2021 – May 2023
@@ -50,8 +44,6 @@ Work experience
 * Macroeconomic Theory Teaching Assistant, Vassar College, Jan. 2022 – May 2022
 
 * Research Assistant on Chinese Economics, Vassar College, Nov. 2019 – May 2020
-
-<br>
 
 Skills
 ======
