@@ -3,8 +3,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-See below for a couple of my data analysis projected related to economic theories and statistics! I will continue uploading my codes from various projects to GitHub and link them here, so please stay tuned! 
-
 ## Table of Contents
 - [Topics on Money and Banking](#topics-on-money-and-banking)
 - [Topics on Time Series Econometrics](#topics-on-time-series-econometrics)
