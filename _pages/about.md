@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kailai's Website"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
