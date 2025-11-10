@@ -228,6 +228,17 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _projects
   - scope:
       path: ""
