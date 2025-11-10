@@ -21,14 +21,14 @@ repository               : "kshao19/kshao19.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4506.jpeg"
+  avatar           : "IMG_0829.JPG"
   name             : "Kailai Shao"
   pronouns         : "she/her"  
-  bio              : "Tableware Collector"
+  bio              : # "Tableware Collector"
   location         : "New York City, US"
   employer         : "Vassar College"
   uri              : # URL
-  email            : "kailai_shao@outlook.com" 
+  email            : "kshao0419@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
