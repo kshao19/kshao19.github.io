@@ -4,32 +4,22 @@ permalink: /projects/
 ---
 
 ## Table of Contents
-- [Topics on Money and Banking](#topics-on-money-and-banking)
+- [Money Growth and Inflation](#money-growth-and-inflation)
 - [Topics on Time Series Econometrics](#topics-on-time-series-econometrics)
 
 <br>
 
-# Topics on Money and Banking
-I used Python to prove and visualize several macroeconomic theories related to money and banking. See the repository for this analysis [here](https://github.com/kshao19/Money_and_Banking_Analysis).
+# Money Growth and Inflation
+I explored key relationships in money, banking, and macroeconomics. For more detail, see [here](https://github.com/kshao19/Money-Growth-and-Inflation-A-Data-Exploration).
 
-![image](https://github.com/user-attachments/assets/3eba1a8f-83e1-4a1f-a828-f57c2b8f15b2)
-
-Topics that I looked into includes:
-  1. What is the relationship between real and nominal GDP
-  2. Effect of the COVID-19 Pandemic on Inflation
-  3. Inflation and Money Growth
-  4. Examine Portfolio Choice Theory
+For instance, I visualized the relationship between real and nominal GDP and the Portfolio Choice Theory assuming that as wealth increases, investors have more resources to purchase assets, therefore, their demand for money increases.
 
 <br>
 
-# Topics on Time Series Econometrics
+# Time Series Econometrics: AR(1) and ARCH-M
 
-![image](https://github.com/user-attachments/assets/27e56523-37cc-408e-adea-94a942a6b346)
+I constructed a Monte Carlo simulation of an AR(1) process in Python and estimated an ARCH-M model in R to analyze excess returns on 6-month Treasury bills.
 
-I used Python and R to demonstrate:
-  1. The preciseness of a Monte Carlo simulation in approximating an AR(1) Process
-  2. The replication on the ARCH-M Model of the excess return to holding 6-month Treasury Bill
-
-See the repository for this analysis [here](https://github.com/kshao19/time_series_econometrics).
+For more detail, see [here](https://github.com/kshao19/time_series_econometrics).
 
 <br>
