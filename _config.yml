@@ -250,10 +250,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _resume
+  # _CV
   - scope:
       path: ""
-      type: resume
+      type: CV
     values:
       layout: single
       author_profile: true
