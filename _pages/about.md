@@ -13,8 +13,4 @@ I am interested in industrial organization, quantitative marketing, and labor ec
 
 <br>
 
-*Dedicated to my grandfather, who shaped my love for learning and encouraged me to always stay curious.*
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6e9b8fe2-5d0c-42fa-9540-c90631e5ea0e" width="250">
-</div>
+-*Dedicated to my grandfather, who shaped my love for learning and encouraged me to always stay curious.*
